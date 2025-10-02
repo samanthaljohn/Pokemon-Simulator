@@ -1,0 +1,1 @@
+"""Battle Functions to be used in user interface"""
