@@ -1,7 +1,7 @@
 """takes a csv file, turns each row into a dictionary to store pokemon information"""
 
 import csv
-import Pokemon
+from pokemon import *
 
 def pokedex(infile):
     """
