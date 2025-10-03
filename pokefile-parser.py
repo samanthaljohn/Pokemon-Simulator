@@ -5,9 +5,10 @@ import Pokemon
 
 def pokedex(infile):
     """
-    Define a csv reader that will create a pokedex / list of dictionary entries
-    for each pokemon
+    Define a csv reader that will create a "pokedex" (list of dictionary entries
+    for each pokemon) and return this "pokedex." (list)
 
+    Parameters:
     infile (csv file): file of pokemon with attributes
     """
     pokemons = []
