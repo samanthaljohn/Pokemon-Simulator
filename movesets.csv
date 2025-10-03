@@ -1,0 +1,152 @@
+pokemon,moves
+Bulbasaur,Tackle,Growl,Leech Seed,Vine Whip
+Ivysaur,Tackle,Growl,Leech Seed,Vine Whip,PoisonPowder,Sleep Powder,Razor Leaf,Growth
+Venusaur,Tackle,Growl,Leech Seed,Vine Whip,PoisonPowder,Sleep Powder,Razor Leaf,Growth,SolarBeam
+Charmander,Scratch,Growl,Ember
+Charmeleon,Scratch,Growl,Ember,Leer,Rage,Slash
+Charizard,Scratch,Growl,Ember,Leer,Rage,Slash,Flamethrower,Fire Spin
+Squirtle,Tackle,Tail Whip,Bubble
+Wartortle,Tackle,Tail Whip,Bubble,Water Gun,Bite
+Blastoise,Tackle,Tail Whip,Bubble,Water Gun,Bite,Withdraw,Skull Bash,Hydro Pump
+Caterpie,Tackle,String Shot
+Metapod, Harden
+Butterfree,Tackle,String Shot,Harden,Confusion,Poison Powder,Stun Spore,Sleep Powder,Leech Life
+Weedle,Poison Sting,String Shot
+Kakuna,Harden
+Beedrill,Poison Sting,String Shot,Harden,Twineedle,Focus Energy
+Pidgey,Tackle,Sand-Attack
+Pidgeotto,Tackle,Sand-Attack,Gust,Quick Attack
+Pidgeot,Tackle,Sand-Attack,Gust,Quick Attack
+Rattata,Tackle,Tail Whip
+Raticate,Tackle,Tail Whip,Hyper Fang
+Spearow,Peck,Growl
+Fearow,Peck,Growl,Agility
+Ekans,
+Arbok,
+Pikachu,
+Raichu,
+Sandshrew,
+Sandslash,
+Nidoran (female),
+Nidorina,
+Nidoqueen,
+Nidoran (male),
+Nidorino,
+Nidoking,
+Clefairy,
+Clefable,
+Vulpix,
+Ninetales,
+Jigglypuff,
+Wigglytuff,
+Zubat,
+Golbat,
+Oddish,
+Gloom,
+Vileplyme,
+Paras,
+Parasect,
+Venonat,
+Venomoth,
+Diglett,
+Dugtrio,
+Meowth,
+Persian,
+Psyduck,
+Golduck,
+Mankey,
+Primeape,
+Growlithe,
+Arcanine,
+Poliwag,
+Poliwhirl,
+Poliwrath,
+Abra,
+Kadabra,
+Alakazam,
+Machop,
+Machoke,
+Machamp,
+Bellsprout,
+Weepinbell
+Victreebel
+Tentacool
+Tentacruel
+Geodude
+Graveler
+Golem
+Ponyta
+Rapidash
+Slowpoke
+Slowbro
+Magnemite
+Magneton
+Farfetch'd
+Doduo
+Dodrio
+Seel
+Dewgong
+Grimer
+Muk
+Shelder
+Cloyster
+Gastly
+Haunter
+Gengar
+Onix
+Drowzee
+Hypno
+Krabby
+Kingler
+Voltorb
+Electrode
+Exeggcute
+Exeggutor
+Cubone
+Marowak
+Hitmonlee
+Hitmonchan
+Lickitung
+Koffing
+Weezing
+Rhyhorn
+Rhydon
+Chansey
+Tangela
+Kangaskhan
+Horsea
+Seadra
+Goldeen
+Seaking
+Staryu
+Starmie
+Mr. Mime
+Scyther
+Jynx
+Electabuzz
+Magmar
+Pinsir
+Tauros
+Magikarp
+Gyarados
+Lapras
+Ditto
+Eevee
+Vaporeon
+Jolteon
+Flareon
+Porygon
+Omanyte
+Omastar
+Kabuto
+Kabutops
+Aerodactyl
+Snorlax
+Articuno
+Zapdos
+Moltres
+Dratini
+Dragonair
+Dragonite
+Mewtwo
+Mew
